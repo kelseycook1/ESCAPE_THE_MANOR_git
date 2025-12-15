@@ -1,2 +1,18 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+Content/bedroom/** filter=lfs diff=lfs merge=lfs -text
+Content/Characters/** filter=lfs diff=lfs merge=lfs -text
+Content/dinning_room/** filter=lfs diff=lfs merge=lfs -text
+Content/FirstPerson/** filter=lfs diff=lfs merge=lfs -text
+Content/Input/** filter=lfs diff=lfs merge=lfs -text
+Content/kitchen/** filter=lfs diff=lfs merge=lfs -text
+Content/LevelPrototyping/** filter=lfs diff=lfs merge=lfs -text
+Content/PUZZLE_ASSETS/** filter=lfs diff=lfs merge=lfs -text
+Content/Variant_Horror/** filter=lfs diff=lfs merge=lfs -text
+Content/Variant_Shooter/** filter=lfs diff=lfs merge=lfs -text
+Content/Weapons/** filter=lfs diff=lfs merge=lfs -text
+Content/corridors/** filter=lfs diff=lfs merge=lfs -text
+Content/house/** filter=lfs diff=lfs merge=lfs -text
+Content/terrain/** filter=lfs diff=lfs merge=lfs -text
+
